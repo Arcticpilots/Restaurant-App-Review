@@ -208,7 +208,7 @@ nav h1 a {
 .inside header {
   position: fixed;
   top: 0;
-  width: 100%;
+  width: 100vw;
   z-index: 1000;
 }
 .inside #map-container {
